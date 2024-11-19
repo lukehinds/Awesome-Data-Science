@@ -152,7 +152,7 @@ The collection below is part of the Awesome Data Science GitHub Repo that contai
 - [PyDataset Data](https://libraries.io/pypi/pydataset) - Instant access to many popular datasets for Python (in data frame structure).<br>
 - [Scikit-learn Data](https://scikit-learn.org/stable/datasets.html) - The sklearn. datasets package embeds some small toy datasets.<br>
 - [Stratsmodel Data](https://www.statsmodels.org/devel/datasets/index.html) - Statsmodels provides datasets (i.e. data and meta-data) for use in examples, tutorials, model testing, etc.<br>
-
+- [PromptWright](https://github.com/StacklokLabs/promptwright) - Project to generate large synthetic data using a Large Language Model.<br>
 ## Development Environments Tools 
 - [Visual Studio Code](https://visualstudio.microsoft.com/) - A standalone source code editor that runs on Windows, macOS, and Linux.<br>
 - [IntelliJ](https://www.jetbrains.com/idea/) - Every aspect of IntelliJ IDEA has been designed to maximise developer productivity.<br>
